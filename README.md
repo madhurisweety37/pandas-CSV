@@ -1,0 +1,1 @@
+This project is a simple Python application that uses the Pandas library to read and analyze CSV files. It helps users load data, view records, check data types, calculate averages, and perform basic data analysis easily.
